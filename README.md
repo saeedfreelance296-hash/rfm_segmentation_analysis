@@ -54,7 +54,7 @@ Olist Brazilian E-Commerce Dataset (Kaggle) — 100,000+ orders
 ├── documentation/           # BRD, analysis narrative, diagrams
 └── visuals/                 # Dashboard screenshot
 ### Dashboard Preview
-![Dashboard] (visuals/dashboard_screenshot)
+![Dashboard] (visuals/dashboard_screenshot.png)
 
  ### Author
 **Saeed Ahmad** — Aspiring E-Commerce Data Analyst
