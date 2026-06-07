@@ -53,7 +53,8 @@ Olist Brazilian E-Commerce Dataset (Kaggle) — 100,000+ orders
 ├── sql/                     # 5 SQL scripts
 ├── documentation/           # BRD, analysis narrative, diagrams
 └── visuals/                 # Dashboard screenshot
-
+### Dashboard Preview
+![Dashboard] (visuals/dashboard_screenshot.png)
  ### Author
 **Saeed Ahmad** — Aspiring E-Commerce Data Analyst
 GitHub: https://github.com/saeedfreelance296-hash
